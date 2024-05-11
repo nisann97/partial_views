@@ -12,8 +12,12 @@
     <None Remove="Models\" />
     <None Remove="Data\" />
     <None Remove="Views\Home\" />
-    <None Remove="Views\Contact\" />
     <None Remove="Views\Shared\" />
+    <None Remove="Views\Blog\" />
+    <None Remove="Views\Product\" />
+    <None Remove="ViewModels\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -21,9 +25,13 @@
     <Folder Include="Models\" />
     <Folder Include="Data\" />
     <Folder Include="Views\Home\" />
-    <Folder Include="Views\Contact\" />
     <Folder Include="Views\Shared\" />
     <Folder Include="wwwroot\" />
+    <Folder Include="Views\Blog\" />
+    <Folder Include="Views\Product\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
