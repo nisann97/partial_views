@@ -309,7 +309,6 @@ new Blog
     Title = "Flower Power",
     Description = "Blog1",
     Image = "blog-feature-img-1.jpg",
-    Date = DateTime.Now
 },
 new Blog
 {
@@ -317,7 +316,6 @@ new Blog
     Title = "Local Florists",
     Description = "Blog2",
     Image = "blog-feature-img-3.jpg",
-    Date = DateTime.Now
 },
 new Blog
 {
@@ -325,7 +323,6 @@ new Blog
     Title = "Flower Beauty",
     Description = "Blog3",
     Image = "blog-feature-img-4.jpg",
-    Date = DateTime.Now
 });
 
         }
